@@ -6,4 +6,4 @@ comments: true
 categories: 
 ---
 
-This is me writing a blog post today :)
+This is me writing a blog post today :)  I'm tired of chasing after everyone in this class!  

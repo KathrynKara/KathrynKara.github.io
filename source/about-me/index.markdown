@@ -13,5 +13,5 @@ I'm Kathryn.  I'm a complete nube to the programming world.  I totally just Jack
 
 I'm an industrial engineer with lots of data to analyze and I'm hoping that adding programming to my toolbox will help me out at work... or maybe change my career path.  
 
-Anyway, food (usually sugar) and dance (more watching than doing) keep me sane in the meantime.     
+Anyway, food (usually sugar) and dance (more watching than doing) keep me sane in the meantime.    
 

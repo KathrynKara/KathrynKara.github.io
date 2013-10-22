@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://KathrynKara.github.io/sitemap.xml 

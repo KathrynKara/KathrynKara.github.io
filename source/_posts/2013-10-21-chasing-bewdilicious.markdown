@@ -6,4 +6,4 @@ comments: true
 categories: 
 ---
 
-This is me writing a blog post today :)  I'm tired of chasing after everyone in this class!  
+One day I'll get myself out of BEWD class an hour early... basically, on time :P  Hopefully, all these install issues are behind me!  

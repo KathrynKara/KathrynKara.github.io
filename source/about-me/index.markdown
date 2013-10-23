@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-About Me!  
+**About Me! ** 
 
 I'm Kathryn.  I'm a complete nube to the programming world.  I totally just Jackie Chan-ed my way to make this page, but I'm glad it's up and running (a la Forrest Gump)!
 
